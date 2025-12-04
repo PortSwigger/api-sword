@@ -3,7 +3,7 @@ ExtensionType: 1
 Name: API Sword
 RepoName: api-sword
 ScreenVersion: 1.0.6
-SerialVersion: 1
+SerialVersion: 2
 MinPlatformVersion: 19
 ProOnly: True
 Author: Sugobet
