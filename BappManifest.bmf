@@ -5,9 +5,9 @@ RepoName: api-sword
 ScreenVersion: 1.0.6
 SerialVersion: 1
 MinPlatformVersion: 19
-ProOnly: False
+ProOnly: True
 Author: Sugobet
-ShortDescription: The extension automatically collects API endpoints from any HTTP response. It extracts specified API and JS files, performs GET/POST requests, and displays results in the Burp GUI.
+ShortDescription: Automatically collects API endpoints from any HTTP response, extracts specified API and JS files, performs GET/POST requests, and displays results.
 EntryPoint: NSFOCUS-API_Sword.jar
 BuildCommand: ./gradlew build
-SupportedProducts: Pro, Community
+SupportedProducts: Pro
