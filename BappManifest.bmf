@@ -9,5 +9,5 @@ ProOnly: True
 Author: Sugobet
 ShortDescription: Automatically collects API endpoints from any HTTP response, extracts specified API and JS files, performs GET/POST requests, and displays results.
 EntryPoint: NSFOCUS-API_Sword.jar
-BuildCommand: ./gradlew build
+BuildCommand: ./gradlew shadowJar
 SupportedProducts: Pro
